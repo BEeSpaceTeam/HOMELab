@@ -1,5 +1,7 @@
 # HOMELab
 
+![alt text](https://github.com/BEeSpaceTeam/HOMELab/blob/master/Logos/BEE%20Space%20Facebook%20Logo.png)
+
 H.O.M.E. (Hexagonal Open Modular Environment) Lab is a Mars analog habitat for human spaceflight to the Red Planet, designed pursuing standards of high liveability and implementing principles of layout modularity.
 
 BEeSpace
