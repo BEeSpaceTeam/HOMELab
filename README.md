@@ -1,10 +1,10 @@
 # HOMELab
 
-![alt text](https://github.com/BEeSpaceTeam/HOMELab/blob/master/Logos/BEE%20Space%20Facebook%20Logo.png)
+![alt text](https://github.com/BEeSpaceTeam/HOMELab/blob/master/Renderings/Basic%20Configuration%20with%20Logo%202.jpg)
 
 H.O.M.E. (Hexagonal Open Modular Environment) Lab is a Mars analog habitat for human spaceflight to the Red Planet, designed pursuing standards of high liveability and implementing principles of layout modularity.
 
-BEeSpace
+
 INTRODUCTION
 
 In the last years, NASA and other space organizations realized many tests to simulate an extraterrestrial environment on Earth and to experiment efficient ways of cohabitation. 
@@ -26,10 +26,11 @@ It is a honeycomb-structure hab, divided into different hexagonal compartment mo
 
 H.O.M.E. is designed to grant people inside it a comfortable place to stay and to be easy to set-up and expand, while being totally green. In fact, its key feature are:
 
-high index of liveability for 6 people;
-designed to reduce psychological stress;
-easy to set-up structure and possibility to add new modules or change the current configuration at any time;
-adoption of eco-friendly solution for heating, power source and waste management.
+-high index of liveability for 6 people;
+-designed to reduce psychological stress;
+-easy to set-up structure and possibility to add new modules or change the current configuration at any time;
+-adoption of eco-friendly solution for heating, power source and waste management.
+
 According to these feature, our basic habitat, for 6 people, is made up of:
 
 6 personal rooms
